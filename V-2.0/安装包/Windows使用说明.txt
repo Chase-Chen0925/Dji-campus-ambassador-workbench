@@ -1,0 +1,10 @@
+DJI校园工作台 2.0 Windows 定制版
+
+安装：双击 DJICampus-2.0.0-Windows-Setup.exe，普通用户安装，无需Python。
+系统：Windows10/11 x64，需Microsoft Edge WebView2 Runtime（程序缺失时会提示官方安装链接）。
+功能：账号周更审核、投稿水印审核、设备流转、月度投稿目标、视频原始数据。
+定制：主页和视频保留独立可调的200/10000互动阈值；严格大于，缺项无法确认。
+数据：仅保存在当前用户APPDATA/DouyinWeeklyRadar，升级保留登录及业务数据；换机前请退出程序并备份该目录。
+水印：必须由人工查看作品后确认，不是自动画面识别。网络平台受登录、验证码和风控限制。
+校验：见SHA256SUMS.txt；本安装包为未签名的本地Windows适配版。
+来源：Chase-Chen0925/Dji-campus-ambassador-workbench V-2.0/GitHub上传，commit 5bda3b72062a13f3c286af6c3e8ad780fc6942ff。
